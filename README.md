@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Calculator App
 
 A beautiful dark-themed calculator app with both basic and scientific modes, inspired by modern mobile calculator designs.
@@ -151,3 +152,6 @@ For issues or questions, please create an issue in the project repository.
 ---
 
 Developed with Flutter 💙
+=======
+# flutter-calculator
+>>>>>>> 13c7b97b2f722a066adf0df15a25bc2c8b31d1f8
