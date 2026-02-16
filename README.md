@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flutter Calculator App
 
 A beautiful dark-themed calculator app with both basic and scientific modes, inspired by modern mobile calculator designs.
@@ -155,3 +154,21 @@ Developed with Flutter 💙
 =======
 # flutter-calculator
 >>>>>>> 13c7b97b2f722a066adf0df15a25bc2c8b31d1f8
+=======
+# finance_manager_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 254912d (Initial commit)

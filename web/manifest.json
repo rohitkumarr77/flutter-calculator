@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "calculator3",
     "short_name": "calculator3",
+=======
+    "name": "finance_manager_app",
+    "short_name": "finance_manager_app",
+>>>>>>> 254912d (Initial commit)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

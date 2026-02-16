@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: calculator3
 #description: "A new Flutter project."
 #
@@ -31,6 +32,13 @@ name: calculator3
 #  uses-material-design: true
 description: A beautiful dark-themed calculator app with scientific functions
 publish_to: 'none'
+=======
+name: finance_manager
+description: Personal Finance Management System - Offline
+
+publish_to: 'none'
+
+>>>>>>> 254912d (Initial commit)
 version: 1.0.0+1
 
 environment:
@@ -39,6 +47,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
   cupertino_icons: ^1.0.2
   provider: ^6.1.1
   shared_preferences: ^2.2.2
@@ -69,3 +78,35 @@ flutter:
   uses-material-design: true
 
 
+=======
+
+  # Local Database
+  sqflite: ^2.3.0
+  path: ^1.8.3
+
+  # Local Storage
+  shared_preferences: ^2.2.2
+
+  # Charts & Graphs
+  fl_chart: ^0.65.0
+
+  # Password Hashing
+  crypto: ^3.0.3
+
+  # Date Formatting
+  intl: ^0.18.1
+
+  # Icons
+  cupertino_icons: ^1.0.6
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+>>>>>>> 254912d (Initial commit)

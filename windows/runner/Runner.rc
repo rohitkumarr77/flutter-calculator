@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "calculator3" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "calculator3" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "calculator3.exe" "\0"
             VALUE "ProductName", "calculator3" "\0"
+=======
+            VALUE "FileDescription", "finance_manager_app" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "finance_manager_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "finance_manager_app.exe" "\0"
+            VALUE "ProductName", "finance_manager_app" "\0"
+>>>>>>> 254912d (Initial commit)
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
